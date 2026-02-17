@@ -7,3 +7,8 @@ echo "Projet réalisé dans le cadre d'une évaluation Git & GitHub." >> README.
  -CSS
  Git
  -GiyHub
+
+ ## COMANDE STASH
+ -git stash
+ -git stash list
+ -git stash pop
